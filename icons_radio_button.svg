@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_3280" data-name="Group 3280" transform="translate(-877 -1309)">
+    <g id="Radio_btn_24x24" data-name="Radio btn 24x24" transform="translate(839 810)">
+      <g id="Radio_btn" data-name="Radio btn" transform="translate(40 501)" fill="none" stroke="#b0b0b0" stroke-width="1">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9.5" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_1846" data-name="Rectangle 1846" width="24" height="24" transform="translate(877 1309)" fill="none"/>
+  </g>
+</svg>
